@@ -23,6 +23,8 @@ https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8
 #EXTINF:-1,Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:-1,Channel S
+http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DBC News
 http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV
@@ -227,6 +229,8 @@ https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueat
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1,WOWOW CINEFIL
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:-1,Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1,Zing
@@ -287,8 +291,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/178.ts
 http://31.3.242.186:1935/probashi/9xm/playlist.m3u8
 #EXTINF:-1,Zoom
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
-#EXTINF:-1,WOW Music
-http://209.58.160.177/wowouthls/live.m3u8
 #EXTINF:-1,B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1,Masthi
