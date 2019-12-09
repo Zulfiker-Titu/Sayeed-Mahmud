@@ -640,7 +640,7 @@ http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1,FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,History TV
-https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
+http://103.121.36.238:8081/live/history/chunks.m3u8
 #EXTINF:-1,VoA TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voa.stream/playlist.m3u8
 #EXTINF:-1,US TV
@@ -690,7 +690,7 @@ http://27.147.156.14:1935/9x-Jalwa/9x-Jalwa.stream/playlist.m3u8
 #EXTINF:-1,9xO
 http://27.147.156.14:1935/9-XO/9-XO.stream/playlist.m3u8
 #EXTINF:-1,Zoom
-https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+http://103.121.36.238:8081/live/zoom-60/playlist.m3u8
 #EXTINF:-1,B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1,CINE VOICE
