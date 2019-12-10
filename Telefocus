@@ -423,8 +423,6 @@ http://103.121.36.238:8081/live/mbc-movie/playlist.m3u8
 http://103.121.36.238:8081/live/mnx/playlist.m3u8
 #EXTINF:-1,AXN
 http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141/01.m3u8
-#EXTINF:-1,A HBO
-http://ott-cdn.ucom.am/s64/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,ROMEDY NOW
 http://103.121.36.238:8081/live/romedynow/playlist.m3u8
 #EXTINF:-1,MOVIE KINGDOM
