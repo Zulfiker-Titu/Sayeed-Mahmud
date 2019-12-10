@@ -351,6 +351,8 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://103.118.76.229:1935/tvprogram/BBC-WORLD/playlist.m3u8
 #EXTINF:-1,CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:-1,cna
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 #EXTINF:-1,Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1,DW
@@ -703,6 +705,8 @@ http://27.147.156.14:1935/Mastii/mastii.stream/playlist.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1,Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1,MK Tunes
+http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 #EXTINF:-1,Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1,MTV Beats
@@ -731,5 +735,5 @@ http://103.121.36.238:8081/live/mtv-14/chunks.m3u8
 http://103.118.76.229:1935/tvprogram/MTV/playlist.m3u8
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,MK Tunes
-http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
+#EXTINF:-1,m2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
