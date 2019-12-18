@@ -423,6 +423,12 @@ http://27.147.156.14:1935/HUM_MASALA/HUM_MASALA.stream/playlist.m3u8
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,FOOD FOOD (Opt-2)
 http://jiotvppl.indmovies.in/jionew/FOOD_FOOD_1200.m3u8
+#EXTINF:-1,FOOD52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,COOKING 4U
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,foodiee
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1,Star Movies HD (Opt-1)
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Movies HD (Opt-2)
@@ -729,6 +735,8 @@ http://103.121.36.238:8081/live/zoom-60/playlist.m3u8
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1,CINE VOICE
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1,DIL SE
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1,Music India
 http://27.147.156.14:1935/Music-India/Music-India.stream/playlist.m3u8
 #EXTINF:-1,Music Mastii (Opt-1)
