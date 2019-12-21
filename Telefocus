@@ -283,7 +283,7 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1, Gem Junoir
+#EXTINF:-1, Gem Junior
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
 #EXTINF:-1, Gem Kids
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
