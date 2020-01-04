@@ -616,7 +616,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zing
 #EXTINF:-1,Colors HD (Opt-1)
 http://216.144.250.174/Colors_TV_HD_02/index.m3u8
 #EXTINF:-1,Colors HD (Opt-2)
-https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
+http://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_3628.m3u8
 #EXTINF:-1,Colors SD (Opt-1)
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 #EXTINF:-1,Colors SD (Opt-2)
