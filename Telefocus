@@ -507,6 +507,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 http://103.118.76.234:1935/tvprogram/HBO/chunklist.m3u8
 #EXTINF:-1,HBO (Opt-2)
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1,Red by HBO
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1,MBC MAX HD (Opt-1)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC MAX HD (Opt-2)
@@ -656,6 +658,8 @@ http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold (Opt-1)
 http://103.118.76.234:1935/tvprogram/STAR-GOLD/chunklist.m3u8
 #EXTINF:-1,Star Gold (Opt-2)
+http://fr-c.movply.stream/hls/Star_Gold.m3u8
+#EXTINF:-1,Star Gold (Opt-3)
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Life
 http://ms-azure-video.gslb.startimestv.com/live/STAR_LIFE_1034_500_480x360_277468/playlist.m3u8
