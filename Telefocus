@@ -394,13 +394,13 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,WEATHER NATION
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1,CNN USA
-http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+https://bracnet.iptv.jadoodigital.com/live/bbc_world/chunks.m3u8
+#EXTINF:-1,CNN International
+https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
 #EXTINF:-1,CNA World
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 #EXTINF:-1,Al Jazeera
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/chunks.m3u8
+https://bracnet.iptv.jadoodigital.com/live/al_jazeera/chunks.m3u8
 #EXTINF:-1,DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1,NHK WORLD
